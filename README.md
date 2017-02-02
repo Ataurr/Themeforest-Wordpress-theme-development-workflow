@@ -48,12 +48,12 @@ Desktop Tools
 * For bitbucket: [Sourcetree for bitbucket](https://www.sourcetreeapp.com/)
 
 ####WORDPRESS-SPECIFIC GIT RESOURCES
-* Version Controlling WordPress
-* A WordPress & Git Workflow
-* WordPress Development and Deployment With MAMP, Git and Dropbox
+* [Version Controlling WordPress](http://roybarber.com/version-controlling-wordpress/)
+* [A WordPress & Git Workflow](http://plausiblethought.net/wordpress-git-workflow/)
+* [WordPress Development and Deployment With MAMP, Git and Dropbox](http://code.tutsplus.com/tutorials/wordpress-development-and-deployment-with-mamp-git-and-dropbox--wp-25718)
 
 ###5. Use Trello
-Theme development is managed with [Trello](trello.com)
+Theme development is managed with [Trello](trello.com).
 Trello is a task management app that gives you a visual overview of what is being worked on and who is working on it.
 The team sets about beta testing the theme. A list of bugs, tweaks and solutions is compiled, a hackathon is scheduled, and everything is completed by the developer.
 
@@ -72,7 +72,7 @@ http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040
 
 Add this to ```wp-config.php define( 'WP_DEBUG', true );```
 
-#####escape Everything
+#####Escape Everything
 ```php 
 // Use anytime HTML element encloses a section of data:
 
