@@ -143,7 +143,7 @@ wp_enqueue_script( 'prefix-fitvids', get_template_directory_uri() . '/js/jquery.
 
 wp_enqueue_script( 'jquery-fitvids', get_template_directory_uri() . '/js/jquery.fitvids.js', array( 'jquery' ), '1.1.1', true );
 ```
-```
+
 #####**Properly Include Plugins Using TGMPA**
 ```php
 // Include a plugin from the WordPress Repository:
