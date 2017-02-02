@@ -143,6 +143,28 @@ wp_enqueue_script( 'prefix-fitvids', get_template_directory_uri() . '/js/jquery.
 
 wp_enqueue_script( 'jquery-fitvids', get_template_directory_uri() . '/js/jquery.fitvids.js', array( 'jquery' ), '1.1.1', true );
 ```
+```
+#####**Properly Include Plugins Using TGMPA**
+```php
+// Include a plugin from the WordPress Repository:
+array(
+  'name'      => esc_html__( 'WooCommerce', 'text-domain' ),
+  'slug'      => 'woocommerce',
+  'required'  => false,
+),
+// Include a plugin bundled within a WordPress theme:
+array(
+  'name'      => esc_html__( 'Example Plugin', 'text-domain' ),
+  'slug'      => 'example-plugin',
+  'source'    => get_template_directory() . '/inc/plugins/example-plugin.zip',
+  'required'  => false,
+),
+```
+#####**Provide Offline Documentation**
+Offline documentation ensures that your customers are not hanging when there is not an Internet connection available or when your files are inaccessible – for any reason. Additionally, you do not have to ensure the assets will be infinitely accessible.
+
+
+
 ##Test theme
 
 ###8. Run Tests
