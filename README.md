@@ -29,6 +29,9 @@ For What ?
 * [Using Gulp for WordPress Theme Development](http://mattbanks.me/gulp-wordpress-development/)
 * [WordPress theme development with Gulp, Bower, and Sass](http://synapticism.com/wordpress-theme-development-with-gulp-bower-and-sass/)
 * [Youtube](https://www.youtube.com/results?search_query=how+to+use+Gulp)
+
+####GRUNT RESOURCES
+* [wordpress-grunt](https://github.com/dtbaker/wordpress-grunt)
 * [Automated WordPress Deployment with Grunt](https://timrourke.com/blog/tutorials/automated-wordpress-deployment-with-grunt/)
 
 ###4.  Use Preprocessor  Like Sass Or Less
