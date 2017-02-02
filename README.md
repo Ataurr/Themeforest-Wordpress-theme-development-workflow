@@ -168,10 +168,22 @@ Offline documentation ensures that your customers are not hanging when there is 
 ##Test theme
 
 ###8. Run Tests
-* Run Theme Check. Must meet all Theme Check requirements
-* Run Theme Mentor for themeforest: https://github.com/Ataurr/Theme-Men...
+* Run [Theme Check](https://wordpress.org/plugins/theme-check/). Must meet all [Theme Check requirements](https://make.wordpress.org/themes/handbook/review/required/theme-check-plugin/)
+* Run [Theme Mentor for themeforest](https://github.com/Ataurr/Theme-Mentor-For-Themeforest/) 
 
 #### Check Plugins
-* Developer Plugin
-* Monster Widget Plugin.
+* [Developer Plugin](https://wordpress.org/plugins/developer/)
+* [Monster Widget Plugin](https://wordpress.org/plugins/monster-widget/).
 
+##Conclusion
+If your theme complies with the following common mishaps, you’ll probably have a much quicker time getting your WordPress theme approved on ThemeForest.
+
+
+
+###Credits: 
+Rich Tabor, Dara Skolnick
+
+
+
+####Copyright Ataurr
+####Licence GPL 2+
