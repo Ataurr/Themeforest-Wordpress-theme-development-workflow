@@ -176,7 +176,7 @@ Offline documentation ensures that your customers are not hanging when there is 
 * [Monster Widget Plugin](https://wordpress.org/plugins/monster-widget/).
 
 ##Conclusion
-If your theme complies with the following common mishaps, you’ll probably have a much quicker time getting your WordPress theme approved on ThemeForest.
+If your theme complies with the following Workflow, you’ll probably have a much quicker time getting your WordPress theme approved on ThemeForest.
 
 
 
