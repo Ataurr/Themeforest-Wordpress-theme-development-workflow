@@ -21,16 +21,16 @@ For What ?
 * Linting and minifying JS files
 * Creating sprites
 * Constantly refreshing my browser
-* GULP RESOURCES
-* Getting started with gulp
-* An Introduction to Gulp.js
-* Using Gulp for WordPress Theme Development
-* WordPress theme development with Gulp, Bower, and Sass
+GULP RESOURCES
+* [Getting started with gulp](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+* [An Introduction to Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
+* [Using Gulp for WordPress Theme Development](http://mattbanks.me/gulp-wordpress-development/)
+* [WordPress theme development with Gulp, Bower, and Sass](http://synapticism.com/wordpress-theme-development-with-gulp-bower-and-sass/)
 * [Youtube](https://www.youtube.com/results?search_query=how+to+use+Gulp)
-* [Automated WordPress Deployment with Grunt](Automated WordPress Deployment with Grunt)
+* [Automated WordPress Deployment with Grunt](https://timrourke.com/blog/tutorials/automated-wordpress-deployment-with-grunt/)
 
 ###4.  Use Preprocessor  Like Sass Or Less
-* [Sass](https://www.youtube.com/results?sea...)
+* [Youtube](https://www.youtube.com/results?search_query=how+to+use+Sass)
 
 ###4. Use git
 Why Use Git: 
