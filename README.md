@@ -21,7 +21,9 @@ For What ?
 * Linting and minifying JS files
 * Creating sprites
 * Constantly refreshing my browser
-GULP RESOURCES
+
+
+####GULP RESOURCES
 * [Getting started with gulp](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
 * [An Introduction to Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
 * [Using Gulp for WordPress Theme Development](http://mattbanks.me/gulp-wordpress-development/)
