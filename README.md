@@ -16,10 +16,13 @@ Great way to include theme customization options that non-developers can manage 
 Create own custom framework are time consuming. So we prfer readymade Option framework Like [Unyson](unyson.io),  [Redux](https://reduxframework.com/), [Codestar](http://codestarframework.com/). 
 
 ####Customiser Framework
+
+Provides a simple and intuitive API for registering Customizer settings, including advanced control types. Automatically sanitizes settings based on the control type. 
 * [Kirki](https://aristath.github.io/kirki/)
 
 ####Page Builder
 Page builders allow you to create, edit, and customize your site layout without writing any code.
+
 Most Popular Page builders: 
 
 * [Visual Composer](https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431?ref=XpeedStudio)
