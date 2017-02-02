@@ -45,6 +45,7 @@ For What ?
 * Linting and minifying JS files
 * Creating sprites
 * Constantly refreshing my browser
+* Create .pot file for translation
 
 
 ####GULP RESOURCES
@@ -53,12 +54,14 @@ For What ?
 * [Using Gulp for WordPress Theme Development](http://mattbanks.me/gulp-wordpress-development/)
 * [WordPress theme development with Gulp, Bower, and Sass](http://synapticism.com/wordpress-theme-development-with-gulp-bower-and-sass/)
 * [Youtube](https://www.youtube.com/results?search_query=how+to+use+Gulp)
+* [WPGulp](https://github.com/ahmadawais/WPGulp)
 
 ####GRUNT RESOURCES
 * [wordpress-grunt](https://github.com/dtbaker/wordpress-grunt)
 * [Automated WordPress Deployment with Grunt](https://timrourke.com/blog/tutorials/automated-wordpress-deployment-with-grunt/)
 
 ###4.  Use Preprocessor  Like Sass Or Less
+* [getting-started-with- sass](https://scotch.io/tutorials/getting-started-with-sass)
 * [Youtube](https://www.youtube.com/results?search_query=how+to+use+Sass)
 
 ###4. Use git
@@ -99,7 +102,7 @@ http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040
 
 ###7. Keep In Mind While Developing a theme:
 
-Add this to ```wp-config.php define( 'WP_DEBUG', true );```
+Add this to wp-config.php ```define( 'WP_DEBUG', true );```
 
 #####Escape Everything
 ```php 
