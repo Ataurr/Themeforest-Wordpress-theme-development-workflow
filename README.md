@@ -72,25 +72,26 @@ http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040
 
 Add this to ```wp-config.php define( 'WP_DEBUG', true );```
 
-#####scape Everything
-// Use anytime HTML element encloses a section of data:
+#####escape Everything
 ```php 
+// Use anytime HTML element encloses a section of data:
+
 echo esc_html( $no_html );
-```
+
 // Use on all URLs, including those in the 'sr####c' and 'href' attributes of an HTML element:
-```php
+
 <img src="<?php echo esc_url( $escaped_url ); ?>" />
-```
+
 // Use for inline Javascript:
-```php
+
 <a href="#" onclick="<?php echo esc_js( $escaped_js ); ?>"><?php esc_html__( 'Click Here', 'text-domain' ); ?></a> 
-```
+
 // Use for an HTML attribute:
-```php
+
 <div class="<?php echo esc_attr( $escaped_class ); ?>">
 ```
 
-#####Prefix Everything
+#####**Prefix Everything**
 ```php
 // Functions
 
@@ -124,7 +125,7 @@ wp_enqueue_style( 'prefix-minified-style', get_theme_directory_uri() . 'style.mi
 add_image_size( 'prefix-large', 800, 600 );
 ```
 
-Do Not Prefix Third Party Scripts
+#####**Do Not Prefix Third Party Scripts**
 
 ```php
 // Incorrect 
