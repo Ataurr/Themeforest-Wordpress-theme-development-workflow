@@ -30,7 +30,7 @@ Most Popular Page builders:
 * [Unyson](unyson.io)
 * [Elementor Frontend builder](https://wordpress.org/plugins/elementor/)
 * [Tailor Frontend builder](https://wordpress.org/plugins/tailor/)
-
+* [King Composer](https://wordpress.org/plugins/kingcomposer/)
 
 
 
