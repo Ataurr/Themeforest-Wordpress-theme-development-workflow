@@ -13,7 +13,10 @@ After Complete your starter theme save this on [GitHub](https://github.com/) or 
 #### Theme Option Framework
 Great way to include theme customization options that non-developers can manage and understand. Many users don’t have a clue what CSS is – but they can use tabs, toggles, drop -downs and color pickers.
 
-Create own custom framework are time consuming. So we prfer readymade Option framework Like [Unyson](http://unyson.io/),  [Redux](https://reduxframework.com/), [Codestar](http://codestarframework.com/). 
+Create own custom framework are time consuming. So we prefer readymade Option framework Like 
+* [Unyson](http://unyson.io/)
+* [Redux](https://reduxframework.com/)
+* [Codestar](http://codestarframework.com/)
 
 #### Customiser Framework
 
