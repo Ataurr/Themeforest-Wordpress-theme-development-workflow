@@ -88,7 +88,7 @@ Desktop Tools
 * [WordPress Development and Deployment With MAMP, Git and Dropbox](http://code.tutsplus.com/tutorials/wordpress-development-and-deployment-with-mamp-git-and-dropbox--wp-25718)
 
 ### 5. Use Trello
-Theme development is managed with [Trello](trello.com).
+Theme development is managed with [Trello](https://trello.com/).
 Trello is a task management app that gives you a visual overview of what is being worked on and who is working on it.
 The team sets about beta testing the theme. A list of bugs, tweaks and solutions is compiled, a hackathon is scheduled, and everything is completed by the developer.
 
