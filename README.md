@@ -207,6 +207,7 @@ Offline documentation ensures that your customers are not hanging when there is 
 * Run [Theme Mentor for themeforest](https://github.com/Ataurr/Theme-Mentor-For-Themeforest/) 
 
 #### Check Plugins
+* [Theme Sniffer Plugin](https://github.com/WPTRT/theme-sniffer) - WordPress Coding Standard
 * [Developer Plugin](https://wordpress.org/plugins/developer/)
 * [Monster Widget Plugin](https://wordpress.org/plugins/monster-widget/).
 
