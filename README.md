@@ -211,7 +211,7 @@ Offline documentation ensures that your customers are not hanging when there is 
 ## Test theme
 
 ### 8. Run Tests
-* Run [Theme Check](https://github.com/envato/envato-theme-check). Must meet all [Theme Check requirements](https://make.wordpress.org/themes/handbook/review/required/theme-check-plugin/)
+* Run [Envato Theme Check](https://github.com/envato/envato-theme-check). Must meet all [Theme Check requirements](https://make.wordpress.org/themes/handbook/review/required/theme-check-plugin/)
 * Run [Theme Mentor for themeforest](https://github.com/Ataurr/Theme-Mentor-For-Themeforest/) 
 
 #### Check Plugins
