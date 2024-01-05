@@ -33,7 +33,8 @@
 			"extensions": [
 				"ritwickdey.LiveServer",
 				"esbenp.prettier-vscode",
-				"ChairImpSec.prolead"
+				"ChairImpSec.prolead",
+				"vscode-icons-team.vscode-icons"
 			]
 		}
 	}
