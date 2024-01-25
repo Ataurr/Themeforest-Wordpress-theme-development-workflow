@@ -4,6 +4,7 @@
         "tomiy.gitea-auth-provider",
         "prui.template-generator-vscode",
         "chairimpsec.prolead",
-        "zhukunpeng.chat-moss"
+        "zhukunpeng.chat-moss",
+        "ms-dotnettools.csdevkit"
     ]
 }
